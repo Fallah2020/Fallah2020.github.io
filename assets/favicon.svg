@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="FN monogram">
+  <rect width="80" height="80" rx="16" fill="#153a43"/>
+  <path d="M20 57V23h22v6H27v9h13v6H27v13zm28 0V23h7l13 22V23h7v34h-7L55 35v22z" fill="#f7f7f2" transform="translate(-6 0) scale(.96 1)"/>
+  <path d="M15 66h50" stroke="#ba9a70" stroke-width="3"/>
+</svg>
