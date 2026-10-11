@@ -9,7 +9,7 @@ description: "Academic profile and research portfolio of Fallah Nyumah, PhD cand
     <div class="hero-copy">
       <p class="eyebrow"><span class="eyebrow-line"></span> FORESTRY · CLIMATE RESILIENCE · ENVIRONMENTAL ECONOMICS</p>
       <h1 id="home-title">Fallah<br><em>Nyumah.</em></h1>
-      <p class="hero-role">MSc · PhD Candidate in Forestry</p>
+      <p class="hero-role">PhD Candidate in Forestry</p>
       <p class="hero-institution">Institute of Forestry and Conservation<br>University of Toronto, Canada</p>
       <p class="hero-lede">I investigate how oil palm and rubber plantations can remain productive, climate-resilient, and environmentally responsible under changing conditions.</p>
       <p class="hero-support">My work brings together process-based modelling, techno-economic analysis, life-cycle assessment, and decision-support systems, building on experience in forest conservation, environmental policy, and teaching.</p>
@@ -27,7 +27,7 @@ description: "Academic profile and research portfolio of Fallah Nyumah, PhD cand
     </div>
   </section>
 
-  <section class="profile-highlights" aria-label="Academic highlights"><div><span class="tiny-label">ACADEMIC TRAINING</span><strong>PhD candidate · Two MSc degrees</strong><small>Toronto · Bangor / Copenhagen · Ibadan</small></div><div><span class="tiny-label">SCHOLARLY OUTPUTS</span><strong>Peer-reviewed research &amp; thesis</strong><small>Forest communities · waste management · education</small></div><div><span class="tiny-label">PROFESSIONAL EXPERIENCE</span><strong>Teaching · Research · Climate policy</strong><small>University of Toronto · UNFCCC · Liberia</small></div></section>
+  <section class="profile-highlights" aria-label="Academic highlights"><div><span class="tiny-label">ACADEMIC TRAINING</span><strong>PhD Candidate in Forestry</strong><small>University of Toronto · Forestry</small></div><div><span class="tiny-label">SCHOLARLY OUTPUTS</span><strong>Peer-reviewed research &amp; thesis</strong><small>Forest communities · waste management · education</small></div><div><span class="tiny-label">PROFESSIONAL EXPERIENCE</span><strong>Teaching · Research · Climate policy</strong><small>University of Toronto · UNFCCC · Liberia</small></div></section>
 
   <section class="intro-band" aria-label="Research vision">
     <span class="tiny-label">RESEARCH VISION</span>
