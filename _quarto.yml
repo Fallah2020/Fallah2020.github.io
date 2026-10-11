@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/**
+    - robots.txt
+
+website:
+  title: "Fallah Nyumah"
+  description: "Fallah Nyumah is a PhD candidate at the University of Toronto researching climate-resilient oil palm and rubber plantations, process-based modelling, environmental economics, and decision-support systems."
+  favicon: assets/favicon.svg
+  site-url: "https://fallah2020.github.io/"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    title: "FALLAH NYUMAH"
+    background: "#ffffff"
+    foreground: "#183a42"
+    pinned: true
+    collapse-below: lg
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Research Tools
+        href: tools.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    border: false
+    left: "© 2026 Fallah Nyumah · Independent academic profile"
+    right: "Made with [Quarto](https://quarto.org/) · Hosted on GitHub Pages"
+  open-graph: true
+  twitter-card: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+    include-after-body: assets/includes/scripts.html
+    smooth-scroll: true
+
+execute:
+  freeze: auto

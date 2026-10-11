@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ethnobotany-2021",
+    "title": "Ethnobotanical Studies on the Use of Medicinal Plants among Forest Fringe Communities around the Kasewe Forest in Moyamba District, Southern Sierra Leone",
+    "type": "Published journal article",
+    "year": 2021,
+    "status": "Published",
+    "authors": "Eisah, J., Nyumah, F., Johnny, J., & Charles, J.",
+    "venue": "American Journal of Plant Sciences, 12, 1963–1989",
+    "summary": "Peer-reviewed article on medicinal-plant use among forest-fringe communities in Sierra Leone.",
+    "topics": [
+      "Ethnobotany",
+      "Forest communities",
+      "Conservation"
+    ],
+    "url": null,
+    "doi": "10.4236/ajps.2021.1212135"
+  },
+  {
+    "id": "waste-2021",
+    "title": "Generation, Characterization and Management Practices of Household Solid Wastes in Cowfield, Paynesville City, Liberia",
+    "type": "Published journal article",
+    "year": 2021,
+    "status": "Published",
+    "authors": "Nyumah, F., Charles, J., Bamgboye, I., Aremu, A., & Eisah, J.",
+    "venue": "Journal of Geoscience and Environment Protection, 9, 113–127",
+    "summary": "Research on household solid-waste generation, characterization, and management practices in Liberia.",
+    "topics": [
+      "Waste management",
+      "Environmental management",
+      "Liberia"
+    ],
+    "url": null,
+    "doi": "10.4236/gep.2021.94007"
+  },
+  {
+    "id": "math-education-2022",
+    "title": "Factors Influencing the Effectiveness of Mathematics Teaching and Learning in High Schools in Maryland County, Southeast Liberia",
+    "type": "Published journal article",
+    "year": 2022,
+    "status": "Published",
+    "authors": "Gueta, M. F. D., Olagunju, E., Katu, D., Nyumah, F., & Hedd, G.",
+    "venue": "International Journal of Education, Teaching and Learning",
+    "summary": "Collaborative study of barriers to effective mathematics teaching and learning in southeast Liberia.",
+    "topics": [
+      "Education",
+      "Teaching",
+      "Liberia"
+    ],
+    "url": "https://garuda.kemdiktisaintek.go.id/documents/detail/3385578",
+    "doi": null
+  },
+  {
+    "id": "masters-thesis-2023",
+    "title": "Factors Influencing Conservation Outcomes and Forest User Groups' Engagement in Participatory Forest Management: A Case of Adaba-Dodola Forest Program in Ethiopia",
+    "type": "Master's thesis",
+    "year": 2023,
+    "status": "Completed thesis",
+    "authors": "Nyumah, F.",
+    "venue": "Bangor University / University of Copenhagen",
+    "summary": "Master's research on participatory forest management, forest user groups, and conservation outcomes; drawing on 1,222 sampled household heads, forest-stock measurements, and forest-user-group data.",
+    "topics": [
+      "Forest governance",
+      "Participatory forest management",
+      "Ethiopia"
+    ],
+    "url": null,
+    "doi": null
+  },
+  {
+    "id": "growth-yield-carbon",
+    "title": "Growth, Yield, and Carbon Dynamics of Oil Palm and Rubber Plantations Under Liberian Climatic Conditions",
+    "type": "Manuscript in preparation",
+    "year": null,
+    "status": "In preparation",
+    "authors": null,
+    "venue": null,
+    "summary": "Developing a process-based assessment of plantation productivity, biomass allocation, and carbon dynamics using the 3PG-RubPalm modelling framework.",
+    "topics": [
+      "Process-based modelling",
+      "Productivity",
+      "Carbon"
+    ],
+    "url": null,
+    "doi": null
+  },
+  {
+    "id": "climate-attribution",
+    "title": "Climate drivers of yield risk and residue-carbon pathways in Liberian oil palm and rubber plantations",
+    "type": "Research manuscript in development",
+    "year": null,
+    "status": "Research in progress",
+    "authors": null,
+    "venue": null,
+    "summary": "Investigating the contributions of individual climate drivers to simulated productivity changes and residue-carbon pathways across climate scenarios.",
+    "topics": [
+      "Climate change",
+      "Yield risk",
+      "Carbon"
+    ],
+    "url": null,
+    "doi": null
+  },
+  {
+    "id": "tea-lca",
+    "title": "Techno-economic and life-cycle assessment of oil palm and rubber plantations in Liberia",
+    "type": "Doctoral research chapter",
+    "year": null,
+    "status": "Research in progress",
+    "authors": null,
+    "venue": null,
+    "summary": "Connecting simulation outputs with economic appraisal, greenhouse-gas accounting, and practical management-pathway comparisons.",
+    "topics": [
+      "Environmental economics",
+      "Life-cycle assessment",
+      "Decision support"
+    ],
+    "url": null,
+    "doi": null
+  }
+]
